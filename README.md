@@ -1,2 +1,3 @@
 # mlprojects
-practise of ml projects
+emovusion
+by samanth and santosh
